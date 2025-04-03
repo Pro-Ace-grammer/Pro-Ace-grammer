@@ -66,7 +66,7 @@
 ## **🎥 Latest YouTube Videos**
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
+<!--
 ⚡ _Automate this using [GitHub Actions](https://github.com/marketplace/actions/youtube-video-fetcher)!_  
 
 ---
