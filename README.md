@@ -2,7 +2,7 @@
 🌟 Arslaan Darwajkar's GitHub Profile README
 -->
 
-<h1 align="center">Hey there! 👋 I'm Arslaan Djangokar</h1>
+<h1 align="center">Hey there! 👋 I'm Arslaan Darwajkar</h1>
 
 <p align="center">
 🚀 Backend Developer | 🧠 AI/ML Enthusiast | 🧰 DevOps Explorer | 🎸 Musician | 💃 Dancer
