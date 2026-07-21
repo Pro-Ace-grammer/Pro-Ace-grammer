@@ -12,7 +12,8 @@
 <a href="https://github.com/Pro-Ace-grammer">GitHub</a> •
 <a href="https://www.linkedin.com/in/arslaan-darwajkar-5a46b0168">LinkedIn</a> •
 <a href="mailto:arsalandarvajkar21@gmail.com">Email</a> •
-<a href="https://leetcode.com/u/arsalandarvajkar21/">LeetCode</a>
+<a href="https://leetcode.com/u/arsalandarvajkar21/">LeetCode</a> •
+<a href="https://arslaan-portfolio-v2.vercel.app/">Portfolio</a>
 </p>
 
 ---
