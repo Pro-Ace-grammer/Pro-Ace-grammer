@@ -1,11 +1,11 @@
-<h1 align="center">Hey there! 👋 I'm Arslaan Darwajkar</h1>
+<h1 align="center">Hey there! 👋 I'm Arslaan Darwajkar[cite: 1]</h1>
 
 <p align="center">
-🚀 Full Stack Developer | 🧠 AI & LLM Integration | 🌍 Remote-First Engineer
+🚀 Full Stack Developer | 🧠 Python & AI Integration | 🌍 Remote-First[cite: 1]
 </p>
 
 <p align="center">
-📍 Goa, India
+📍 Goa, India[cite: 1]
 </p>
 
 <p align="center">
@@ -19,15 +19,13 @@
 
 # 👨‍💻 About Me
 
-🚀 Founder & Architect of **Ayon** — building a global **Experience-as-a-Service (EaaS)** platform.
+🚀 **Founding Full Stack Developer** specialized in building scalable backends with Python (Django/FastAPI) and dynamic frontends with React[cite: 1].
 
-🧠 Specialized in **AI-integrated web ecosystems** and **automation driven UI pipelines**.
+🧠 Experienced in architecting **AI-integrated ecosystems, data pipelines, and workflow automation tools**[cite: 1].
 
-⚙️ Strong focus on **scalable backend architecture with Python** and **dynamic frontends with React**.
+⚡ Highly skilled in leveraging modern AI assistance to **maximize engineering velocity and ship production-ready features quickly**[cite: 1].
 
-🤖 Working on **LLM orchestration systems** using **Gemini, Claude, and LLaMA**.
-
-🌍 Interested in **high-ownership roles with international remote-first teams**.
+🌍 Committed to technical excellence within **remote-first, high-ownership engineering teams**[cite: 1].
 
 ---
 
@@ -49,9 +47,8 @@
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Design-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery"/>
 </p>
 
 ---
@@ -62,20 +59,18 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Component%20Architecture-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Design%20Systems-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Driven%20UI-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 AI / LLM / Automation
+## 🧠 AI / LLM / Execution
 
 <p>
-<img src="https://img.shields.io/badge/LLM%20Workflows-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/0--1%20MVP%20Delivery-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLaMA-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Workflow%20Automation-grey?style=for-the-badge"/>
 </p>
 
 ---
@@ -86,6 +81,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
 </p>
 
 ---
@@ -95,9 +91,7 @@
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge"/>
 </p>
 
@@ -105,38 +99,32 @@
 
 # 🧪 Key Projects
 
-### 🚀 Ayon — Global Verified Experience Platform
-Python (FastAPI) • React • PostgreSQL • LLM Orchestration
+### 🚀 Civic Yantra — National Citizen Grievance Subsystem[cite: 1]
+Python (FastAPI) • React • PostgreSQL (PostGIS) • Geospatial Clustering[cite: 1]
 
-- Building the first **Experience-as-a-Service infrastructure**
-- Automated **task-level evaluation engine using LLMs**
-- Verified Experience Profiles for global employers
-- Open Source contribution based trust verification
+- Leading the product vision for a national grievance app by authoring PRDs/PSDs and defining user stories[cite: 1].
+- Researching scalable database schemas using PostgreSQL with PostGIS extensions to handle high-density, real-time spatial telemetry[cite: 1].
+- Architecting workflows for real-time micropayment integrations to enable direct, community-backed project funding[cite: 1].
 
 ---
 
 ### 🤖 Resume Match AI
-Django • LLaMA • Groq API
+Django (DRF) • LLaMA • Groq API[cite: 1]
 
-AI system that evaluates resumes against job descriptions.
+AI-powered resume analysis system to evaluate resumes against job descriptions[cite: 1].
 
-Features:
-
-- Resume parsing
-- Skill matching
-- AI generated evaluation insights
-- LLM driven comparison analysis
+- Implemented PDF parsing and structured data extraction[cite: 1].
+- Integrated Groq API with LLaMA models to generate prompt-driven resume insights and comparisons[cite: 1].
+- Designed backend architecture with scalability and future frontend integration in mind[cite: 1].
 
 ---
 
-### ⚙️ Model Driven UI Rendering Framework
+### ⚙️ Model-Driven UI Rendering Framework[cite: 1]
+YAML • Component Architecture • UI Rendering[cite: 1]
 
-YAML • Component Architecture
-
-- Declarative UI rendering engine
-- Dynamic interface generation
-- Centralized UI rendering layer
-- Improved component reuse
+- Designed a model-driven UI rendering framework to generate dynamic interfaces from YAML-based configuration models[cite: 1].
+- Built an internal rendering optimization layer to standardize UI behavior and improve performance[cite: 1].
+- Enabled declarative UI definitions, reducing UI inconsistencies and dependency on manual frontend implementations[cite: 1].
 
 ---
 
@@ -151,11 +139,9 @@ YAML • Component Architecture
 
 # 🏆 Achievements
 
-🥇 First Place — Vistara Cultural Event (Goa)
+🥇 First Place winner among 12 teams for the Vistara Event of Culture, Goa (2023)[cite: 1].
 
-🎵 Musician Performer — FIFA Women’s World Cup India (2022)
-
-⚖️ Evaluator & Judge — MUTE BEAT & Goa’s Got Talent
+🎵 Musician Performer for the Kick-off Ceremony of the 7th Edition FIFA Women's World Cup, India (2022)[cite: 1].
 
 ---
 
@@ -163,7 +149,7 @@ YAML • Component Architecture
 
 > “I build systems where work speaks for itself — turning raw capability into verified proof.”
 
-📧 **Email:** arsalandarvajkar21@gmail.com
+📧 **Email:** arsalandarvajkar21@gmail.com[cite: 1]
 
 ---
 
@@ -178,9 +164,3 @@ YAML • Component Architecture
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Pro-Ace-grammer&theme=tokyonight"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
